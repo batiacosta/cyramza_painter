@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893140515443",
+    "firebase_url": "https://cyramzapainter.firebaseio.com",
+    "project_id": "cyramzapainter",
+    "storage_bucket": "cyramzapainter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893140515443:android:7f42df4689ee5803520806",
+        "android_client_info": {
+          "package_name": "com.graziles.cyramza_painter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893140515443-2cqvdvri9llbt1nlum2vj3m0lvaa3o5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSxpOFpZUMZWnwjSmtKMXgBCqGYCLgbvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893140515443-2cqvdvri9llbt1nlum2vj3m0lvaa3o5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
